@@ -1,4 +1,4 @@
-# H4ker-New
+# H4ker-News
 IOS Haker New App
 
 The "Hacker News App" is an iOS application 
